@@ -1,25 +1,15 @@
 # Project
 
-[![python](https://img.shields.io/static/v1?label=python&message=3.7&color=<COLOR>)](https://www.python.org/)&nbsp;
-[![js](https://img.shields.io/static/v1?label=javascript&message=1.8.5&color=<COLOR>)](https://www.javascript.com/)&nbsp;
 
 ### contents
-1. [item1](#item1)
-2. [item2](#item2)
-3. [item3](#item3)
-4. [item4](#item4)
+1. [Naruto](#item1)
+2. [JUJUTSU KAISEN](#item2)
+3. [HUNTERXHUNTER](#item3)
+4. [ATTCK OF TITAN](#item4)
 
 
 **ABOUT ME** This page is gonna be about all my favorite animes. I love watching animes during my freetime when i'm not doing schoolwork. The first anime that caught my heart is 
-Naruto.
-
-check [Google!](http://google.com)
-
-- [x] Sed et varius massa. Aliquam erat volutpat.
-- [x] Proin vitae placerat lorem, vel pellentesque magna.
-- [ ] Donec non auctor nisl. Duis hendrerit turpis in pulvinar mattis. Sed et fringilla orci.
-- [x] Maecenas diam eros, convallis in pellentesque eget, scelerisque eu turpis.
-
+**Naruto**. It was the very first anime that i ever watched, so it will always have a placed in my heart. My current favorite anime is **Jujutsu Kaisen**. I just loved everything about it. **Hunter X Hunter** is also a very good anime that people should watch, if they get into anime. I also recommend **Atack on Titan**.
 
 ## Item1
 
@@ -27,8 +17,12 @@ check [Google!](http://google.com)
 
 ## Item2
 
-<img src="https://github.com/SixLabors/Branding/raw/master/icons/imagesharp/sixlabors.imagesharp.svg?sanitize=true" alt="SixLabors.ImageSharp" width="256"/>
+[Jujutsu Kaisen IMDB LINK](https://www.imdb.com/title/tt12343534/)
 
 ## Item3
 
+[Hunter X Hunter IMDB LINK](https://www.imdb.com/title/tt2098220/)
+
 ## Item4
+
+[ATtack of titan IMDB LINK](https://www.imdb.com/title/tt2560140/)

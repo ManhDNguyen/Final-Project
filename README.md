@@ -23,7 +23,7 @@ check [Google!](http://google.com)
 
 ## Item1
 
-![image](https://www.imdb.com/title/tt0409591/)
+[Naruto IMDB Link](https://www.imdb.com/title/tt0409591/)
 
 ## Item2
 

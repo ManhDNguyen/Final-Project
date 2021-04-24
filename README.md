@@ -10,7 +10,8 @@
 4. [item4](#item4)
 
 
-**Lorem** ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor libero id augue *sollicitudin vehicula*. Maecenas non laoreet urna, et aliquam lorem. Mauris in auctor nisl, eget aliquet justo. Phasellus vitae sem mattis, cursus magna eu, convallis ipsum. Suspendisse ornare risus nec nulla imperdiet tempor. Curabitur euismod felis ac risus rutrum pretium. Nam placerat blandit nisl, feugiat fermentum turpis pharetra eu. Maecenas porta tristique risus, ut ornare est euismod eu. Pellentesque quis odio at lacus maximus pulvinar. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+**ABOUT ME** This page is gonna be about all my favorite animes. I love watching animes during my freetime when i'm not doing schoolwork. The first anime that caught my heart is 
+Naruto.
 
 check [Google!](http://google.com)
 
@@ -22,9 +23,7 @@ check [Google!](http://google.com)
 
 ## Item1
 
-[algorithms repo readme](https://github.com/TheAlgorithms/Python/blob/master/README.md)
-
-![image](https://github.com/SixLabors/Branding/raw/master/icons/imagesharp/sixlabors.imagesharp.svg?sanitize=true)
+![image](https://www.imdb.com/title/tt0409591/)
 
 ## Item2
 

@@ -21,7 +21,7 @@
 
 ## Item1
 
-**Preperations** In order to build a pc, you'll need the parts and tools to build one. First, we need to pick a budget for our pc, the higher the budget, the better the pc is. After that we need go to[Pcparkpicker](https://pcpartpicker.com/). This website will help us with picking out our parts. Our parts need to compitable with each other or our pc won't work. The website also shows which website has the parts for the cheapest price.
+**Preperations** In order to build a pc, you'll need the parts and tools to build one. First, we need to pick a budget for our pc, the higher the budget, the better the pc is. After that we need go to [Pcparkpicker](https://pcpartpicker.com/). This website will help us with picking out our parts. Our parts need to compitable with each other or our pc won't work. The website also shows which website has the parts for the cheapest price.
 
 ## Item2
 
@@ -29,9 +29,39 @@
 
 ## Item3
 
-**Motherboards**
+**Motherboards** The motherboard is a place where all your parts will connect to. It allows communication between all the different hardware. There a ton of options for motherboards depending on your budget. A low end motherboard will get the job done but won't have all the features like a high end one such as built in wifi reciever. But not every cpu works with every motherboard.
 
 
 ## Item4
 
-[ATtack of titan IMDB LINK](https://www.imdb.com/title/tt2560140/)
+**Video Card/GPU** The GPU allows your computer to do the graphics calcuations that allow your games to look good. But here is what i was talking about earlier, the main difference between a gaming computer and regular desktop. Most CPU comes with integrated graphics but if you want to game on the computer, you'll need a gpu. Just like CPU, the two main companies are AMD and Nvidia. Depending on the budget, this is where most of the budget for a gaming pc should go to. This is what will affect your gaming experience the most. A low end graphics card will you let play some games at a decent quality but a high end one will let you play all the games with at least 60 fps.
+
+## Item5
+
+**Ram** Ram or Random Acess Memory is the computers Short-term memory. It is different from your storage because it resets when it doesn't have power. I recommend having at least 8gb of Ram on any computer but 16GB if it is a gaming PC. Ram comes in many speed. Make sure you get the same ram stick with the same speed.
+
+## Item6
+
+**Storage** This where your data will be **Stored**. You have 2 options to choose from A hard disk drive or a solid state drive. SSD are faster and more durable but they are cost more per gigabyte. I recommend getting a SSD and a hardrive because you want to put your operation system on the SSD so it can boot up faster. You can store large files or a files that you won't use a lot.
+
+## Item7
+
+**Case** This is where all the parts will go into. The case is mostly cosemetics but you would want to make sure that all your parts can fit inside the case.
+
+## Item8
+
+ **Power Supply Unit** The PSU provides power to the parts so they can run. Any PSU would work but make sure the PSU have enough watts to provide for the computer.
+ 
+ ## Item9
+ 
+ **CPU Cooler** This part, you guess it... cools the cpu. It makes sure your cpu isn't too hot so i can keep performing. Depending on what cpu you get, some of them comes with a heatsink/cpu cooler with them but if not, just make sure the cooler fits the case. You can choose from liquid cooling or Air Cooler.
+ 
+ ## Item10
+ 
+ ** Operating system** The operating system is a software that allows you to interact with your computer. I recommend installing it on the SSD because it will allowed your computer to boot up faster. There are some OS to choose from but the most popular and i recommend this too is Windows.
+ 
+ ## Item11
+ 
+ ** Building the pc** Once you have all your parts, this is where all the fun begins. I think of building a pc as putting a puzzle together. A lot of people are afraid of building their own because they think it is some super complicated process but it is super simple. I recommend watching this video By a popular tech youtuber [Tutorial](https://www.youtube.com/watch?v=OZaFqY8UF6I&ab_channel=TechSource). 
+
+

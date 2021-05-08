@@ -1,4 +1,4 @@
-# Project
+# How to build a Gaming PC/Desktop
 
 
 ### contents

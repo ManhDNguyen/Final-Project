@@ -1,15 +1,23 @@
 # How to build a Gaming PC/Desktop
+**How to build a Gaming PC/Desktop
+**Manh Nguyen**
+** Summary** The purpose of this page is for begineers wanting to learn how to build a gaming pc or a desktop. The main difference between a gaming pc or a desktop is the Graphics card but we will get into what that is later in the guide. You'll learn about the different parts and what it does.
+** Who should read this** You should read this guide if you are looking to build a computer or just intrested how a computer is built. We welcome all ages here but if you are under 10, i recommend to follow this guide with an adult.
 
 
-### contents
-1. [Naruto](#item1)
-2. [JUJUTSU KAISEN](#item2)
-3. [HUNTERXHUNTER](#item3)
-4. [ATTCK OF TITAN](#item4)
+### Table of Contents
+1. [Preperations](#item1)
+2. [CPU](#item2)
+3. [Motherboard](#item3)
+4. [Video Card/GPU](#item4)
+5. [Memory/RAM](#item5)
+6. [Storage](#item6)
+7. [Case](#item7)
+8. [Power Supply](#item8)
+9. [Cpu Cooler](#item9)
+10. [Operating System](#item10)
+11. [Building the PC](#item11)
 
-
-**ABOUT ME** This page is gonna be about all my favorite animes. I love watching animes during my freetime when i'm not doing schoolwork. The first anime that caught my heart is 
-**Naruto**. It was the very first anime that i ever watched, so it will always have a placed in my heart. My current favorite anime is **Jujutsu Kaisen**. I just loved everything about it. **Hunter X Hunter** is also a very good anime that people should watch, if they get into anime. I also recommend **Atack on Titan**.
 
 ## Item1
 

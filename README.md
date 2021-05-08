@@ -58,10 +58,10 @@
  
  ## Operating SYstem
  
- ** Operating system** The operating system is a software that allows you to interact with your computer. I recommend installing it on the SSD because it will allowed your computer to boot up faster. There are some OS to choose from but the most popular and i recommend this too is Windows.
+ **Operating system** The operating system is a software that allows you to interact with your computer. I recommend installing it on the SSD because it will allowed your computer to boot up faster. There are some OS to choose from but the most popular and i recommend this too is Windows.
  
  ## Building the pc
  
- ** Building the pc** Once you have all your parts, this is where all the fun begins. I think of building a pc as putting a puzzle together. A lot of people are afraid of building their own because they think it is some super complicated process but it is super simple. I recommend watching this video By a popular tech youtuber [Tutorial](https://www.youtube.com/watch?v=OZaFqY8UF6I&ab_channel=TechSource). 
+ **Building the pc** Once you have all your parts, this is where all the fun begins. I think of building a pc as putting a puzzle together. A lot of people are afraid of building their own because they think it is some super complicated process but it is super simple. I recommend watching this video By a popular tech youtuber [Tutorial](https://www.youtube.com/watch?v=OZaFqY8UF6I&ab_channel=TechSource). 
 
 

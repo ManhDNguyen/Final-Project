@@ -21,15 +21,16 @@
 
 ## Item1
 
-[Naruto IMDB Link](https://www.imdb.com/title/tt0409591/)
+**Preperations** In order to build a pc, you'll need the parts and tools to build one. First, we need to pick a budget for our pc, the higher the budget, the better the pc is. After that we need go to[Pcparkpicker](https://pcpartpicker.com/). This website will help us with picking out our parts. Our parts need to compitable with each other or our pc won't work. The website also shows which website has the parts for the cheapest price.
 
 ## Item2
 
-[Jujutsu Kaisen IMDB LINK](https://www.imdb.com/title/tt12343534/)
+**CPU** The CPU or the central processing unit, is basically the brain on our PC. It convert instructions into actions that the computer can execute and tell the other parts how to work with each other. There are two main companies for CPUs: Intel and AMD. I would said it is like apple and Samsung. Intel is like Apple because they are the most popular but it is overpriced for the performace. AMD provides CPU that have good performance for their price. I recommend getting a Intel, if your budget is high but if you aren't a highroller stick to AMD.
 
 ## Item3
 
-[Hunter X Hunter IMDB LINK](https://www.imdb.com/title/tt2098220/)
+**Motherboards**
+
 
 ## Item4
 
